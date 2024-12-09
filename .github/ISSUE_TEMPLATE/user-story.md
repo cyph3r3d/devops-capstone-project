@@ -1,13 +1,13 @@
-**As a** [role]  
-**I need** [function]  
-**So that** [benefit]  
+**As a** developer  
+**I need** code more  
+**So that** I gain more experence  
      
 ### Details and Assumptions
     * [document what you know]      
      
 ### Acceptance Criteria     
     gherkin 
-    Given [some context]
-    When [certain action is taken]
-    Then [the outcome of action is observed]
+    Given will focus
+    When learning
+    Then succeed
 
